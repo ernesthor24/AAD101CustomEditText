@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AAD10.1CustomEditText</string>
+    <string name="last_name">Nom de famille</string>
+</resources>

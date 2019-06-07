@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" ranslatable="false">AAD10.1CustomEditText</string>
+    <string name="last_name">Last name</string>
+</resources>
